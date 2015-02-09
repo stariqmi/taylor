@@ -1,0 +1,24 @@
+PhantomJS is launching GhostDriver...
+[INFO  - 2015-02-09T06:15:11.063Z] GhostDriver - Main - running on port 54143
+[INFO  - 2015-02-09T06:15:12.017Z] Session [014cc5b0-b023-11e4-9122-9d1ecf28f41e] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2015-02-09T06:15:12.017Z] Session [014cc5b0-b023-11e4-9122-9d1ecf28f41e] - page.customHeaders:  - {}
+[INFO  - 2015-02-09T06:15:12.017Z] Session [014cc5b0-b023-11e4-9122-9d1ecf28f41e] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-02-09T06:15:12.017Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 014cc5b0-b023-11e4-9122-9d1ecf28f41e
+[ERROR - 2015-02-09T06:15:12.990Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1423462512941
+[ERROR - 2015-02-09T06:15:13.471Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1423462513422
+[ERROR - 2015-02-09T06:15:13.924Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1423462513899
+[ERROR - 2015-02-09T06:15:14.406Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1423462514356
+[ERROR - 2015-02-09T06:15:14.983Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1423462514938
+[ERROR - 2015-02-09T06:15:15.461Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1423462515411
+[ERROR - 2015-02-09T06:15:15.942Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1423462515892
+[ERROR - 2015-02-09T06:15:16.420Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1423462516373
+[ERROR - 2015-02-09T06:15:16.874Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1423462516849
+[ERROR - 2015-02-09T06:15:17.356Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1423462517305
+[ERROR - 2015-02-09T06:15:17.815Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1423462517785
+[ERROR - 2015-02-09T06:15:18.280Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1423462518244
+[ERROR - 2015-02-09T06:15:18.761Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1423462518712
+[ERROR - 2015-02-09T06:15:19.243Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1423462519194
+[ERROR - 2015-02-09T06:15:19.721Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1423462519674
+[ERROR - 2015-02-09T06:15:20.201Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1423462520152
+[ERROR - 2015-02-09T06:15:20.776Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1423462520732
+[ERROR - 2015-02-09T06:15:21.230Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1423462521205
