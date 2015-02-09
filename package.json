@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "casperjs": "^1.1.0-beta3",
     "cheerio": "^0.18.0",
     "html-to-text": "^1.2.0",
     "request": "^2.53.0"

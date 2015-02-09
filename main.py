@@ -1,6 +1,5 @@
 from selenium import webdriver
 import socket
-import json
 
 short = [["Blvd","Bl"], ["Ave", "Av"], ["Street", "St"], ["Pkwy", "Pk"], ["Way", "Wa"]]
 
@@ -46,3 +45,4 @@ s.connect(("localhost",8080));
 
 driver = webdriver.PhantomJS();
 collectUrls(driver, s);
+driver.close();
